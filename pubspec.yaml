@@ -25,7 +25,6 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.bluechilli.flutteruploader
         pluginClass: FlutterUploaderPlugin
       ios:
         pluginClass: FlutterUploaderPlugin
